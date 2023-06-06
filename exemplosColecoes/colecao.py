@@ -31,3 +31,25 @@ print(numeros)
 
 # tamanho da lista
 print(len(numeros))
+
+# Tuplas
+
+naipes = ('copas', 'ouros', 'espadas', 'paus')
+print(naipes)
+
+# Dicionários
+
+# criar e imprimir dicionário
+
+notas = { "Ana":8, "Thais":10, "Maria":5}
+print(notas)
+
+# acessar o valor correspondente à chave "Thais"
+print(notas["Thais"])
+
+# incluir novo item
+notas["Zaira"] = 9
+print(notas)
+
+#checar se notas contém o item "Maria"
+print("Maria" in notas)
