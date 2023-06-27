@@ -9,4 +9,4 @@ pessoa_1 = Pessoa("Camila")
 print(pessoa_1)
 
 pessoa_2 = Pessoa("Celma")
-print(pessoa_22)
+print(pessoa_2)
