@@ -2,7 +2,7 @@ class Pessoa:
     num_pessoas = 0
     def __init__(self, nome):
         self.nome = nome
-        Pessoa.num_pessoas += 11
+        Pessoa.num_pessoas += 1
 
 
 nomes = ['João', 'Paulo', 'Jorge', 'Camila']
